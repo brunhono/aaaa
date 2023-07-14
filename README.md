@@ -10,7 +10,12 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <details>
 <summary>:pushpin: Índice</summary>
