@@ -14,7 +14,9 @@
 
 <details>
 <summary>:pushpin: Índice</summary>
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)  
+<br>
+  
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -25,3 +27,25 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 </details>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Título e Imagem de capa
